@@ -1,0 +1,31 @@
+c:\users\humza\documents\visual studio 2015\Projects\AbstractFactoryPatterns\AbstractFactoryPatterns\bin\Debug\AbstractFactoryPatterns.exe.config
+c:\users\humza\documents\visual studio 2015\Projects\AbstractFactoryPatterns\AbstractFactoryPatterns\bin\Debug\AbstractFactoryPatterns.exe
+c:\users\humza\documents\visual studio 2015\Projects\AbstractFactoryPatterns\AbstractFactoryPatterns\bin\Debug\AbstractFactoryPatterns.pdb
+c:\users\humza\documents\visual studio 2015\Projects\AbstractFactoryPatterns\AbstractFactoryPatterns\obj\Debug\AbstractFactoryPatterns.csprojResolveAssemblyReference.cache
+c:\users\humza\documents\visual studio 2015\Projects\AbstractFactoryPatterns\AbstractFactoryPatterns\obj\Debug\AbstractFactoryPatterns.exe
+c:\users\humza\documents\visual studio 2015\Projects\AbstractFactoryPatterns\AbstractFactoryPatterns\obj\Debug\AbstractFactoryPatterns.pdb
+C:\Users\User\Desktop\AbstractFactoryPatterns\AbstractFactoryPatterns\bin\Debug\AbstractFactoryPatterns.exe.config
+C:\Users\User\Desktop\AbstractFactoryPatterns\AbstractFactoryPatterns\obj\Debug\AbstractFactoryPatterns.exe
+C:\Users\User\Desktop\AbstractFactoryPatterns\AbstractFactoryPatterns\obj\Debug\AbstractFactoryPatterns.pdb
+C:\Users\User\Desktop\AbstractFactoryPatterns\AbstractFactoryPatterns\bin\Debug\AbstractFactoryPatterns.exe
+C:\Users\User\Desktop\AbstractFactoryPatterns\AbstractFactoryPatterns\bin\Debug\AbstractFactoryPatterns.pdb
+C:\Users\User\Desktop\AbstractFactoryPatterns\AbstractFactoryPatterns\obj\Debug\AbstractFactoryPatterns.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\necessity Project\AbstractFactoryPatterns\AbstractFactoryPatterns\bin\Debug\AbstractFactoryPatterns.exe.config
+C:\Users\User\Desktop\necessity Project\AbstractFactoryPatterns\AbstractFactoryPatterns\obj\Debug\AbstractFactoryPatterns.exe
+C:\Users\User\Desktop\necessity Project\AbstractFactoryPatterns\AbstractFactoryPatterns\obj\Debug\AbstractFactoryPatterns.pdb
+E:\necessity Project\AbstractFactoryPatterns\AbstractFactoryPatterns\bin\Debug\AbstractFactoryPatterns.exe.config
+E:\necessity Project\AbstractFactoryPatterns\AbstractFactoryPatterns\bin\Debug\AbstractFactoryPatterns.exe
+E:\necessity Project\AbstractFactoryPatterns\AbstractFactoryPatterns\bin\Debug\AbstractFactoryPatterns.pdb
+E:\necessity Project\AbstractFactoryPatterns\AbstractFactoryPatterns\obj\Debug\AbstractFactoryPatterns.csproj.AssemblyReference.cache
+E:\necessity Project\AbstractFactoryPatterns\AbstractFactoryPatterns\obj\Debug\AbstractFactoryPatterns.csproj.SuggestedBindingRedirects.cache
+E:\necessity Project\AbstractFactoryPatterns\AbstractFactoryPatterns\obj\Debug\AbstractFactoryPatterns.csproj.CoreCompileInputs.cache
+E:\necessity Project\AbstractFactoryPatterns\AbstractFactoryPatterns\obj\Debug\AbstractFactoryPatterns.exe
+E:\necessity Project\AbstractFactoryPatterns\AbstractFactoryPatterns\obj\Debug\AbstractFactoryPatterns.pdb
+D:\Personal Git Project\Git Repository Project\Repository Abstract pattern method\AbstractFactoryPatterns\bin\Debug\AbstractFactoryPatterns.exe.config
+D:\Personal Git Project\Git Repository Project\Repository Abstract pattern method\AbstractFactoryPatterns\bin\Debug\AbstractFactoryPatterns.exe
+D:\Personal Git Project\Git Repository Project\Repository Abstract pattern method\AbstractFactoryPatterns\bin\Debug\AbstractFactoryPatterns.pdb
+D:\Personal Git Project\Git Repository Project\Repository Abstract pattern method\AbstractFactoryPatterns\obj\Debug\AbstractFactoryPatterns.csproj.AssemblyReference.cache
+D:\Personal Git Project\Git Repository Project\Repository Abstract pattern method\AbstractFactoryPatterns\obj\Debug\AbstractFactoryPatterns.csproj.SuggestedBindingRedirects.cache
+D:\Personal Git Project\Git Repository Project\Repository Abstract pattern method\AbstractFactoryPatterns\obj\Debug\AbstractFactoryPatterns.csproj.CoreCompileInputs.cache
+D:\Personal Git Project\Git Repository Project\Repository Abstract pattern method\AbstractFactoryPatterns\obj\Debug\AbstractFactoryPatterns.exe
+D:\Personal Git Project\Git Repository Project\Repository Abstract pattern method\AbstractFactoryPatterns\obj\Debug\AbstractFactoryPatterns.pdb
