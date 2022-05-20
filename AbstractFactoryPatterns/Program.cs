@@ -5,6 +5,7 @@ namespace AbstractFactoryPatterns
     {
         static void Main(string[] args)
         {
+            // ----------------------------initialization -------------------------------
             AsbtractFactory seaFactory = AbstractFactoryProduction.GetFactory("SeaVehicleFactory");
             IVehiclecs ivehiclecsSea = seaFactory.GetSeaVehicles("ship");
             Console.WriteLine(ivehiclecsSea.GetEngineInfo());
